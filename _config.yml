@@ -1,7 +1,7 @@
 name: ronberg creative
 favicon: null
-layout_spectrum: 0.20592460432089865
-typography_spectrum: 0.9020943741779774
+layout_spectrum: 0.93616
+typography_spectrum: 0.31615
 title: 'Photos | Songs | Stories'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8447483903728426
-  lightness: 0.21882551978342235
-  saturation: 0.5695892809890211
+  brandStrength: 0.1875
+  lightness: 0.3125
+  saturation: 0.1875
   rhythmicContrast: 0.9977758477907628
 purpose: []
