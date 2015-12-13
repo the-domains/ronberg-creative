@@ -1,0 +1,28 @@
+name: ronberg creative
+favicon: null
+layout_spectrum: 0.20592460432089865
+typography_spectrum: 0.9020943741779774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8447483903728426
+  lightness: 0.21882551978342235
+  saturation: 0.5695892809890211
+  rhythmicContrast: 0.9977758477907628
+purpose: []
