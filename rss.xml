@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Photos | Songs | Stories]]></title>
+        <description><![CDATA[Photos | Songs | Stories]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Dec 2015 08:22:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Greetings...]]></title>
+            <description><![CDATA[<article><h1>Greetings...</h1><p>Welcome to Ronberg Creative... A creative space for the words and images that I slowly and steadily concoct. I hope you enjoy exploring my thoughts and the images that all combine to create my small view of a big world... I would love to hear from you if anything floats your boat!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a602e80f-2188-4f9e-813a-576bb714ae91.jpg"></article>]]></description>
+            <link>undefinedgreetings/index.html</link>
+            <guid isPermaLink="false">1737d4b5-9da9-4c35-b8e5-d2ef53081dae</guid>
+            <pubDate>Sun, 13 Dec 2015 08:22:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
